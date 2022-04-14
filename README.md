@@ -34,11 +34,12 @@ Refactoring running time on 2018
 
 <img width="357" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/102264298/163291810-03ed84d6-5a2d-4c02-9461-021790995402.png">
 
-## Summery
+## Summary
 ### What are the advantages or disadvantages of refactoring code?
 
---Advantages: refactoring will help our code more organized and easier to understand or read. 
---Disadvantages: refactoring process can affect the testing outcomes and it is time consuming. 
+Advantages: refactoring will help our code more organized and easier to understand or read. 
+
+Disadvantages: refactoring process can affect the testing outcomes and it is time consuming. 
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 
