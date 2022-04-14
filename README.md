@@ -9,12 +9,12 @@ The tickerIndex is set equal to zero before looping over the rows
 
 Here are my VBA Analysis results 2017
 
-<img width="504" alt="Screen Shot 2022-04-11 at 1 53 25 PM" src="https://user-images.githubusercontent.com/102264298/163292006-a14e5318-fc1e-4b5a-9dc1-fdff69d1129a.png">
+<img width="281" alt="Screen Shot 2022-04-11 at 3 06 07 PM" src="https://user-images.githubusercontent.com/102264298/163292733-ca85d74b-2677-4b7f-b17c-18ad1ffffc57.png">
+hubusercontent.com/102264298/163292032-b584455c-4938-4fba-b7b0-d73abd73d467.png">
 
 Final VBA Analysis 2018
 
-
-
+<img width="504" alt="Screen Shot 2022-04-11 at 1 53 25 PM" src="https://user-images.githubusercontent.com/102264298/163292006-a14e5318-fc1e-4b5a-9dc1-fdff69d1129a.png">
 
 The pop-up messages showing the elapsed run time for the scrip are below: 
 
