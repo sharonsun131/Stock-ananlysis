@@ -1,8 +1,8 @@
 # Stock Analysis
 ## Overview of Project: Explain the purpose of this analysis.
 The purpose of this project is to refactor the VBA code in the Module 2, and then determine whether refactoring the code successfully made the VBA script run faster. 
-## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-## Summary:
+## Results: 
+
 The tickerIndex is set equal to zero before looping over the rows
 
 <img width="421" alt="Screen Shot 2022-04-13 at 7 05 54 PM" src="https://user-images.githubusercontent.com/102264298/163292032-b584455c-4938-4fba-b7b0-d73abd73d467.png">
@@ -34,10 +34,14 @@ Refactoring running time on 2018
 
 <img width="357" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/102264298/163291810-03ed84d6-5a2d-4c02-9461-021790995402.png">
 
+##Summery
 ###What are the advantages or disadvantages of refactoring code?
-Advantages: refactoring will help our code more organized and easier to understand or read. 
-Disadvantages: refactoring process can affect the testing outcomes and it is time consuming. 
+
+--Advantages: refactoring will help our code more organized and easier to understand or read. 
+--Disadvantages: refactoring process can affect the testing outcomes and it is time consuming. 
+
 ###How do these pros and cons apply to refactoring the original VBA script?
+
 The refactoring code process will make our VBA script take less time to run. A clean and well-organized code will make our analysis easier to change and understand even after a long time.  
 ![image](https://user-images.githubusercontent.com/102264298/163291715-85c6d427-289b-4226-b002-c18e3d9bdb13.png)
 
