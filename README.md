@@ -9,7 +9,11 @@ The purpose of this project is to refactor the VBA code in the Module 2, and the
 
 2. Created three output arrays: tickerVolumes, tickerStartingPrices, and tickerEndingPrices. 
 
+![tickers](https://user-images.githubusercontent.com/102264298/163293719-2771f5d4-ae71-47b5-af4e-58d7cd7af2d9.png)
+
 3. made positive returns green and negative returns red. Added some formatting based on the values of the returns.
+
+<img width="439" alt="formatting" src="https://user-images.githubusercontent.com/102264298/163293696-9f0fdd7c-a80b-4d62-ac58-3b6d76ad6dc1.png">
 
 Here are my VBA Analysis results 2017
 
