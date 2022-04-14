@@ -3,14 +3,17 @@
 The purpose of this project is to refactor the VBA code in the Module 2, and then determine whether refactoring the code successfully made the VBA script run faster. 
 ## Results: 
 
-The tickerIndex is set equal to zero before looping over the rows
+1. The tickerIndex is set equal to zero before looping over the rows
 
 <img width="421" alt="Screen Shot 2022-04-13 at 7 05 54 PM" src="https://user-images.githubusercontent.com/102264298/163292032-b584455c-4938-4fba-b7b0-d73abd73d467.png">
+
+2. Created three output arrays: tickerVolumes, tickerStartingPrices, and tickerEndingPrices. 
+
+3. made positive returns green and negative returns red. Added some formatting based on the values of the returns.
 
 Here are my VBA Analysis results 2017
 
 <img width="281" alt="Screen Shot 2022-04-11 at 3 06 07 PM" src="https://user-images.githubusercontent.com/102264298/163292733-ca85d74b-2677-4b7f-b17c-18ad1ffffc57.png">
-hubusercontent.com/102264298/163292032-b584455c-4938-4fba-b7b0-d73abd73d467.png">
 
 Final VBA Analysis 2018
 
